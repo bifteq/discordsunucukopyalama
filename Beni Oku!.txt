@@ -1,0 +1,16 @@
+1-Klasör içerisinde bulunan PythonInstaller ile pythonu kurun.
+
+2-Adres çubuğuna "cmd" yazıp açılan konsola aşağıda bulunan kodları yapıştırın.
+
+pip install --user discord
+pip install --user colorama
+pip install --user psutil
+pip install --user pypresence
+
+3-Açtığınız CMD'yi kapatıp aynı şekilde tekrardan açın.
+
+> start main.py yazarak uygulamayı çalıştırın
+
+Token Kodu :
+(webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()
+
